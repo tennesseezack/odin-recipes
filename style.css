@@ -1,0 +1,14 @@
+body {
+    background-image: url(./images/FoodAndDrink.svg);
+}
+
+h1, h2, h3, h4, ol, ul, img, p {
+    background-color: gray;
+    border: 5px solid black;
+    text-align: center;
+    width: 300px;
+}
+
+li {
+    text-align: left;
+}
