@@ -12,3 +12,7 @@ h1, h2, h3, h4, ol, ul, img, p {
 li {
     text-align: left;
 }
+
+a {
+    color: black;
+}
